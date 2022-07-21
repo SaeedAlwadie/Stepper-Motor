@@ -1,8 +1,10 @@
 # Stepper-Motor
 Employment stepper motor
 1- Login to linkedcad
-Work for Stepper-Motor circuit
-Writing code to operate the Stepper-Motor circuit
+
+2-Work for Stepper-Motor circuit
+
+3-Writing code to operate the Stepper-Motor circuit
 ```
 #include <Stepper.h>
 
